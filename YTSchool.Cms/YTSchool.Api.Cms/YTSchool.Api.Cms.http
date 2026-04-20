@@ -1,0 +1,6 @@
+@YTSchool.Api.Cms_HostAddress = http://localhost:7000
+
+GET {{YTSchool.Api.Cms_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
